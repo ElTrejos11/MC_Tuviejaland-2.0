@@ -584,6 +584,8 @@
       "minecraft:witch": "2025-05-30 02:35:36 +0000",
       "minecraft:ravager": "2025-05-30 02:45:17 +0000",
       "minecraft:husk": "2025-05-30 04:34:00 +0000",
+      "minecraft:hoglin": "2025-05-31 21:06:06 +0000",
+      "minecraft:piglin": "2025-05-31 21:02:32 +0000",
       "minecraft:vindicator": "2025-05-30 02:38:48 +0000",
       "minecraft:spider": "2025-05-29 23:52:05 +0000",
       "minecraft:vex": "2025-05-30 02:43:51 +0000",
@@ -1155,6 +1157,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-31 21:00:38 +0000",
       "minecraft:nether_wastes": "2025-05-30 00:19:45 +0000"
     },
     "done": false
@@ -1948,6 +1951,24 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-31 03:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 21:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 21:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-31 21:00:58 +0000"
     },
     "done": true
   },

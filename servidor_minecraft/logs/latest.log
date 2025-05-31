@@ -477,4 +477,7 @@ VoiceChatPacketProcessingThreadEx[31May2025 20:57:27.251] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[31May2025 20:57:27.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
-VoiceChatPacketProcessingThreadEx
+VoiceChatPacketProcessingThreadEx[31May2025 20:59:52.529] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
+Server threadEx[31May2025 21:05:54.189] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
+Server threadEx[31May2025 21:06:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Those Were the Days]
+Server threadEx

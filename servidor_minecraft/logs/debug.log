@@ -4623,4 +4623,9 @@ VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
 VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.621] [Netty Epoll Server IO #3/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@e3b7d279],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:update_state"
 Netty Epoll Server IO #3Ex[31May2025 20:57:28.621] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RICHARDESC207: {disabled=true, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+Server threadEx[31May2025 20:59:45.772] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1690$1
+Server threadEx[31May2025 20:59:52.529] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
+Server threadEx[31May2025 21:00:25.640] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1937$2
+Server threadEx[31May2025 21:05:54.189] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
+Server threadEx[31May2025 21:06:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Those Were the Days]
 Server threadEx
