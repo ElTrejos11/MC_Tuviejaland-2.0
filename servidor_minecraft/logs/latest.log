@@ -425,4 +425,56 @@ Async Chat Thread - #4Ex[31May2025 20:45:12.252] [Server thread/INFO] [net.minec
 Server threadEx[31May2025 20:45:16.731] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> si
 Async Chat Thread - #4Ex[31May2025 20:45:25.696] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> soy mero manco
 Async Chat Thread - #5Ex[31May2025 20:45:58.557] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> lo pongo con algien pro
-Async Chat Thread - #4Ex
+Async Chat Thread - #4Ex[31May2025 20:46:13.211] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> alguien
+Async Chat Thread - #5Ex[31May2025 20:46:26.093] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> eso
+Async Chat Thread - #4Ex[31May2025 20:48:49.300] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /homes
+Server threadEx[31May2025 20:49:40.367] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /mods
+Server threadEx[31May2025 20:49:47.466] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s -380 63.5 -410
+Server threadEx[31May2025 20:49:47.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to -379.500000, 63.500000, -409.500000]
+Server threadEx[31May2025 20:49:55.916] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode spectator
+Server threadEx[31May2025 20:49:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Spectator Mode]
+Server threadEx[31May2025 20:50:42.323] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[31May2025 20:50:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[31May2025 20:50:57.618] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /sethome bace 2
+Server threadEx[31May2025 20:51:01.712] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /sethome bace_2
+Server threadEx[31May2025 20:52:04.978] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /effect clear Trejos1111
+Server threadEx[31May2025 20:52:04.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Removed every effect from Trejos1111]
+Server threadEx[31May2025 20:52:10.608] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> a qaue horas es el evento?
+Async Chat Thread - #7Ex[31May2025 20:52:17.757] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> me surgio algo urgente
+Async Chat Thread - #6Ex[31May2025 20:52:31.839] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx lost connection: Disconnected
+Server threadEx[31May2025 20:52:31.841] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xHARITOLx
+Server threadEx[31May2025 20:52:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx left the game
+Server threadEx[31May2025 20:55:23.765] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player RICHARDESC207 is 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+User Authenticator #3Ex[31May2025 20:55:25.381] [Server thread/INFO] [net.minecraft.class_3324/]: RICHARDESC207[/127.42.195.91:34953] logged in with entity id 5061 at (-339.90978518272806, 49.0, -991.5521173255299)
+Server threadEx[31May2025 20:55:25.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 joined the game
+Server threadEx[31May2025 20:55:26.308] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RICHARDESC207 (18)
+Server threadEx[31May2025 20:55:26.309] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+Server threadEx[31May2025 20:55:26.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:27.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:27.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:41.945] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> que se dice el trejos
+Async Chat Thread - #9Ex[31May2025 20:55:51.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:51.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:51.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:51.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:52.826] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:55:52.826] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:17.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:17.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:17.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:17.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:18.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:18.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:44.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:44.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:44.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:45.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:46.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:56:46.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 20:57:27.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 20:57:27.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:57:27.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[31May2025 20:57:27.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx
