@@ -480,4 +480,32 @@ VoiceChatPacketProcessingThreadEx[31May2025 20:57:28.479] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[31May2025 20:59:52.529] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
 Server threadEx[31May2025 21:05:54.189] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
 Server threadEx[31May2025 21:06:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Those Were the Days]
+Server threadEx[31May2025 21:11:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [War Pigs]
+Server threadEx[31May2025 21:13:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Hidden in the Depths]
+Server threadEx[31May2025 21:15:12.325] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player pipi_caliente69 is 1fd35de1-ffd5-3cac-beba-c36100fd459f
+User Authenticator #4Ex[31May2025 21:15:13.190] [Server thread/INFO] [net.minecraft.class_3324/]: pipi_caliente69[/127.214.193.124:56099] logged in with entity id 12088 at (32.5, 71.0, -56.5)
+Server threadEx[31May2025 21:15:13.211] [Server thread/WARN] [AdvancedTeleport/]: First-join teleport point  does not exist.
+Server threadEx[31May2025 21:15:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipi_caliente69 joined the game
+Server threadEx[31May2025 21:15:14.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pipi_caliente69 (18)
+Server threadEx[31May2025 21:15:14.096] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pipi_caliente69
+Server threadEx[31May2025 21:15:14.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+VoiceChatPacketProcessingThreadEx[31May2025 21:15:15.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+VoiceChatPacketProcessingThreadEx[31May2025 21:15:15.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:16.059] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player Mori_Jun is 39a4115d-3442-3afd-aa2c-3b3a6673e363
+User Authenticator #5Ex[31May2025 21:16:16.963] [Server thread/INFO] [net.minecraft.class_3324/]: Mori_Jun[/127.226.26.251:46241] logged in with entity id 12659 at (551.8111180855326, 112.25220334025373, 1871.063589844547)
+Server threadEx[31May2025 21:16:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun joined the game
+Server threadEx[31May2025 21:16:18.267] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mori_Jun (18)
+Server threadEx[31May2025 21:16:18.267] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mori_Jun
+Server threadEx[31May2025 21:16:18.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 39a4115d-3442-3afd-aa2c-3b3a6673e363
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:19.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 39a4115d-3442-3afd-aa2c-3b3a6673e363
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:19.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mori_Jun (39a4115d-3442-3afd-aa2c-3b3a6673e363) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:25.442] [Server thread/INFO] [net.minecraft.class_3244/]: pipi_caliente69 lost connection: Disconnected
+Server threadEx[31May2025 21:16:25.442] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pipi_caliente69
+Server threadEx[31May2025 21:16:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipi_caliente69 left the game
+Server threadEx[31May2025 21:17:04.093] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun lost connection: Disconnected
+Server threadEx[31May2025 21:17:04.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mori_Jun
+Server threadEx[31May2025 21:17:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun left the game
+Server threadEx[31May2025 21:18:21.440] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[31May2025 21:18:21.440] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[31May2025 21:18:21.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
 Server threadEx

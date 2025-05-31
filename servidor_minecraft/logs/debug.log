@@ -4628,4 +4628,210 @@ Server threadEx[31May2025 20:59:52.529] [Server thread/WARN] [net.minecraft.clas
 Server threadEx[31May2025 21:00:25.640] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1937$2
 Server threadEx[31May2025 21:05:54.189] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved wrongly!
 Server threadEx[31May2025 21:06:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Those Were the Days]
+Server threadEx[31May2025 21:11:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [War Pigs]
+Server threadEx[31May2025 21:13:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Hidden in the Depths]
+Server threadEx[31May2025 21:15:12.325] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player pipi_caliente69 is 1fd35de1-ffd5-3cac-beba-c36100fd459f
+User Authenticator #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [ServerConfigurationNetworkAddon for pipi_caliente69/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:item
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block_entity_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:mob_effect
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:sound_event
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.686] [Netty Epoll Server IO #4/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.888] [Netty Epoll Server IO #4/DEBUG] [ServerConfigurationNetworkAddon for pipi_caliente69/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.888] [Netty Epoll Server IO #4/DEBUG] [ServerConfigurationNetworkAddon for pipi_caliente69/]: Negotiated common packet version 1
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.986] [Netty Epoll Server IO #4/DEBUG] [ServerConfigurationNetworkAddon for pipi_caliente69/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #4Ex[31May2025 21:15:12.986] [Netty Epoll Server IO #4/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #4Ex[31May2025 21:15:13.083] [Netty Epoll Server IO #4/DEBUG] [ServerConfigurationNetworkAddon for pipi_caliente69/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #4Ex[31May2025 21:15:13.190] [Server thread/INFO] [net.minecraft.class_3324/]: pipi_caliente69[/127.214.193.124:56099] logged in with entity id 12088 at (32.5, 71.0, -56.5)
+Server threadEx[31May2025 21:15:13.211] [Server thread/WARN] [AdvancedTeleport/]: First-join teleport point  does not exist.
+Server threadEx[31May2025 21:15:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipi_caliente69 joined the game
+Server threadEx[31May2025 21:15:13.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of pipi_caliente69: {disabled=false, disconnected=true, uuid=1fd35de1-ffd5-3cac-beba-c36100fd459f, name=pipi_caliente69, group=null}
+Server threadEx[31May2025 21:15:14.093] [Netty Epoll Server IO #4/DEBUG] [ServerPlayNetworkAddon for literal{pipi_caliente69}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell pipi_caliente69 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@54361b1f],insertion=pipi_caliente69}]/]: Handling inbound packet from channel with name "voicechat:request_secret"
+Netty Epoll Server IO #4Ex[31May2025 21:15:14.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pipi_caliente69 (18)
+Server threadEx[31May2025 21:15:14.096] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to pipi_caliente69
+Server threadEx[31May2025 21:15:14.096] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with pipi_caliente69
+Server threadEx[31May2025 21:15:14.096] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with pipi_caliente69
+Server threadEx[31May2025 21:15:14.096] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pipi_caliente69
+Server threadEx[31May2025 21:15:14.103] [Netty Epoll Server IO #4/DEBUG] [ServerPlayNetworkAddon for literal{pipi_caliente69}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell pipi_caliente69 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@54361b1f],insertion=pipi_caliente69}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #4Ex[31May2025 21:15:14.194] [Netty Epoll Server IO #4/DEBUG] [ServerPlayNetworkAddon for literal{pipi_caliente69}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell pipi_caliente69 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@54361b1f],insertion=pipi_caliente69}]/]: Handling inbound packet from channel with name "polymer:handshake"
+Netty Epoll Server IO #4Ex[31May2025 21:15:14.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+VoiceChatPacketProcessingThreadEx[31May2025 21:15:15.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+VoiceChatPacketProcessingThreadEx[31May2025 21:15:15.341] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of pipi_caliente69 to connected: {disabled=false, disconnected=false, uuid=1fd35de1-ffd5-3cac-beba-c36100fd459f, name=pipi_caliente69, group=null}
+VoiceChatPacketProcessingThreadEx[31May2025 21:15:15.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 21:15:15.434] [Netty Epoll Server IO #4/DEBUG] [ServerPlayNetworkAddon for literal{pipi_caliente69}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell pipi_caliente69 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@54361b1f],insertion=pipi_caliente69}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #4Ex[31May2025 21:15:15.442] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pipi_caliente69: {disabled=false, disconnected=false, uuid=1fd35de1-ffd5-3cac-beba-c36100fd459f, name=pipi_caliente69, group=null}
+Server threadEx[31May2025 21:16:16.059] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player Mori_Jun is 39a4115d-3442-3afd-aa2c-3b3a6673e363
+User Authenticator #5Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [ServerConfigurationNetworkAddon for Mori_Jun/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:item
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block_entity_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:mob_effect
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:sound_event
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.445] [Netty Epoll Server IO #7/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.649] [Netty Epoll Server IO #7/DEBUG] [ServerConfigurationNetworkAddon for Mori_Jun/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.649] [Netty Epoll Server IO #7/DEBUG] [ServerConfigurationNetworkAddon for Mori_Jun/]: Negotiated common packet version 1
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.749] [Netty Epoll Server IO #7/DEBUG] [ServerConfigurationNetworkAddon for Mori_Jun/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.749] [Netty Epoll Server IO #7/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.846] [Netty Epoll Server IO #7/DEBUG] [ServerConfigurationNetworkAddon for Mori_Jun/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #7Ex[31May2025 21:16:16.963] [Server thread/INFO] [net.minecraft.class_3324/]: Mori_Jun[/127.226.26.251:46241] logged in with entity id 12659 at (551.8111180855326, 112.25220334025373, 1871.063589844547)
+Server threadEx[31May2025 21:16:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun joined the game
+Server threadEx[31May2025 21:16:16.972] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Mori_Jun: {disabled=false, disconnected=true, uuid=39a4115d-3442-3afd-aa2c-3b3a6673e363, name=Mori_Jun, group=null}
+Server threadEx[31May2025 21:16:18.238] [Netty Epoll Server IO #7/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@b31b6051],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "voicechat:request_secret"
+Netty Epoll Server IO #7Ex[31May2025 21:16:18.267] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mori_Jun (18)
+Server threadEx[31May2025 21:16:18.267] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Mori_Jun
+Server threadEx[31May2025 21:16:18.267] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Mori_Jun
+Server threadEx[31May2025 21:16:18.267] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Mori_Jun
+Server threadEx[31May2025 21:16:18.267] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mori_Jun
+Server threadEx[31May2025 21:16:18.317] [Netty Epoll Server IO #7/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@b31b6051],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #7Ex[31May2025 21:16:18.422] [Netty Epoll Server IO #7/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@b31b6051],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "polymer:handshake"
+Netty Epoll Server IO #7Ex[31May2025 21:16:18.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 39a4115d-3442-3afd-aa2c-3b3a6673e363
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:19.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 39a4115d-3442-3afd-aa2c-3b3a6673e363
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:19.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Mori_Jun to connected: {disabled=false, disconnected=false, uuid=39a4115d-3442-3afd-aa2c-3b3a6673e363, name=Mori_Jun, group=null}
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:19.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mori_Jun (39a4115d-3442-3afd-aa2c-3b3a6673e363) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:19.760] [Netty Epoll Server IO #7/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@b31b6051],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #7Ex[31May2025 21:16:19.761] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Mori_Jun: {disabled=false, disconnected=false, uuid=39a4115d-3442-3afd-aa2c-3b3a6673e363, name=Mori_Jun, group=null}
+Server threadEx[31May2025 21:16:22.098] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.inventory.EnchantmentContainer1Mixin from mixins.arclight.core.json into net.minecraft.class_1718$1
+Server threadEx[31May2025 21:16:25.442] [Server thread/INFO] [net.minecraft.class_3244/]: pipi_caliente69 lost connection: Disconnected
+Server threadEx[31May2025 21:16:25.442] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pipi_caliente69
+Server threadEx[31May2025 21:16:25.442] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pipi_caliente69
+Server threadEx[31May2025 21:16:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipi_caliente69 left the game
+Server threadEx[31May2025 21:16:25.452] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 1fd35de1-ffd5-3cac-beba-c36100fd459f does not have a secret
+VoiceChatPacketProcessingThreadEx[31May2025 21:16:25.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 1fd35de1-ffd5-3cac-beba-c36100fd459f does not have a secret
+VoiceChatPacketProcessingThreadEx[31May2025 21:17:04.093] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun lost connection: Disconnected
+Server threadEx[31May2025 21:17:04.093] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mori_Jun
+Server threadEx[31May2025 21:17:04.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mori_Jun
+Server threadEx[31May2025 21:17:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun left the game
+Server threadEx[31May2025 21:18:21.440] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[31May2025 21:18:21.440] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Trejos1111
+Server threadEx[31May2025 21:18:21.440] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[31May2025 21:18:21.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
 Server threadEx
