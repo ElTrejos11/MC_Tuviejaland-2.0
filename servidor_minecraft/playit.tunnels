@@ -35,8 +35,8 @@
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "7f28566d-528b-402c-af94-5a3a78a76c05",
-          "agent_name": "from-key-bf93",
+          "agent_id": "fd675b86-edd8-4474-b844-f219d519ef10",
+          "agent_name": "from-key-1f76",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -82,8 +82,8 @@
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "7f28566d-528b-402c-af94-5a3a78a76c05",
-          "agent_name": "from-key-bf93",
+          "agent_id": "fd675b86-edd8-4474-b844-f219d519ef10",
+          "agent_name": "from-key-1f76",
           "local_ip": "127.0.0.1",
           "local_port": 3486
         },
