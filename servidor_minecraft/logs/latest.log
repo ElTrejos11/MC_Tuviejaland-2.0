@@ -582,4 +582,14 @@ Server threadEx[01Jun2025 06:14:51.792] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[01Jun2025 06:15:16.833] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
 Server threadEx[01Jun2025 06:16:24.960] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
 Server threadEx[01Jun2025 06:22:01.363] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:24:19.781] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /sethome
+Server threadEx[01Jun2025 06:24:30.735] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /sethome Utopia Del Pato
+Server threadEx[01Jun2025 06:28:19.585] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s 679 62.5 -430
+Server threadEx[01Jun2025 06:28:19.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 679.500000, 62.500000, -429.500000]
+Server threadEx[01Jun2025 06:28:57.146] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode spectator
+Server threadEx[01Jun2025 06:28:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Spectator Mode]
+Server threadEx[01Jun2025 06:29:23.962] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[01Jun2025 06:29:23.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[01Jun2025 06:30:58.921] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s 281 60.5 -762
+Server threadEx[01Jun2025 06:30:59.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 281.500000, 60.500000, -761.500000]
 Server threadEx

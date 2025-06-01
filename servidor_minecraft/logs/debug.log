@@ -5247,4 +5247,23 @@ Server threadEx[01Jun2025 06:16:16.960] [Server thread/DEBUG] [Implementer/SWITC
 Server threadEx[01Jun2025 06:16:24.960] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
 Server threadEx[01Jun2025 06:19:08.260] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2349$1
 Server threadEx[01Jun2025 06:22:01.363] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:24:19.781] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /sethome
+Server threadEx[01Jun2025 06:24:30.735] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /sethome Utopia Del Pato
+Server threadEx[01Jun2025 06:28:19.585] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s 679 62.5 -430
+Server threadEx[01Jun2025 06:28:19.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 679.500000, 62.500000, -429.500000]
+Server threadEx[01Jun2025 06:28:23.138] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2338$5
+Worker-Main-3Ex[01Jun2025 06:28:57.146] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode spectator
+Server threadEx[01Jun2025 06:28:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Spectator Mode]
+Server threadEx[01Jun2025 06:29:03.683] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2510$1
+Worker-Main-3Ex[01Jun2025 06:29:03.684] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2544$1
+Worker-Main-3Ex[01Jun2025 06:29:17.014] [Worker-Main-2/DEBUG] [FabricLoader/Mixin/]: Mixing commands.arguments.blocks.BlockStateParserMixin from mixins.arclight.core.json into net.minecraft.class_2259
+Worker-Main-2Ex[01Jun2025 06:29:17.017] [Worker-Main-2/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:commands.arguments.blocks.BlockStateParserMixin from mod arclight->@Inject::arclight$init(Lnet/minecraft/class_7225;Lcom/mojang/brigadier/StringReader;ZZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Worker-Main-2Ex[01Jun2025 06:29:17.017] [Worker-Main-2/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:commands.arguments.blocks.BlockStateParserMixin from mod arclight->@Inject::arclight$init(Lnet/minecraft/class_7225;Lcom/mojang/brigadier/StringReader;ZZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Worker-Main-2Ex[01Jun2025 06:29:17.017] [Worker-Main-2/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:commands.arguments.blocks.BlockStateParserMixin from mod arclight->@Inject::arclight$init(Lnet/minecraft/class_7225;Lcom/mojang/brigadier/StringReader;ZZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+Worker-Main-2Ex[01Jun2025 06:29:17.802] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2465$1
+Worker-Main-2Ex[01Jun2025 06:29:17.813] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1297$1
+Worker-Main-2Ex[01Jun2025 06:29:23.962] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[01Jun2025 06:29:23.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[01Jun2025 06:30:58.921] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s 281 60.5 -762
+Server threadEx[01Jun2025 06:30:59.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 281.500000, 60.500000, -761.500000]
 Server threadEx
