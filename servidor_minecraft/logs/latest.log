@@ -476,4 +476,12 @@ Server threadEx[01Jun2025 04:01:02.699] [Server thread/WARN] [net.minecraft.clas
 Server threadEx[01Jun2025 04:04:53.660] [Server thread/INFO] [net.minecraft.class_3244/]: pipi_caliente69 lost connection: Disconnected
 Server threadEx[01Jun2025 04:04:53.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pipi_caliente69
 Server threadEx[01Jun2025 04:04:53.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipi_caliente69 left the game
+Server threadEx[01Jun2025 04:38:02.957] [Server thread/WARN] [net.minecraft.class_3244/]: IlarilarieOhOHIO was kicked for floating too long!
+Server threadEx[01Jun2025 04:38:02.958] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO lost connection: Flying is not enabled on this server
+Server threadEx[01Jun2025 04:38:02.959] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client IlarilarieOhOHIO
+Server threadEx[01Jun2025 04:38:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO left the game.
+Server threadEx[01Jun2025 04:38:03.057] [Server thread/WARN] [net.minecraft.class_2535/]: handleDisconnection() called twice
+Server threadEx[01Jun2025 04:38:12.808] [User Authenticator #9/INFO] [net.minecraft.class_3248/]: UUID of player IlarilarieOhOHIO is 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+User Authenticator #9Ex[01Jun2025 04:38:14.138] [Server thread/INFO] [net.minecraft.class_3324/]: IlarilarieOhOHIO[/127.57.143.3:57595] logged in with entity id 24714 at (719.5490682667354, 65.25220334025373, -190.64383429714283)
+Server threadEx[01Jun2025 04:38:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO joined the game
 Server threadEx
