@@ -484,4 +484,46 @@ Server threadEx[01Jun2025 04:38:03.057] [Server thread/WARN] [net.minecraft.clas
 Server threadEx[01Jun2025 04:38:12.808] [User Authenticator #9/INFO] [net.minecraft.class_3248/]: UUID of player IlarilarieOhOHIO is 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
 User Authenticator #9Ex[01Jun2025 04:38:14.138] [Server thread/INFO] [net.minecraft.class_3324/]: IlarilarieOhOHIO[/127.57.143.3:57595] logged in with entity id 24714 at (719.5490682667354, 65.25220334025373, -190.64383429714283)
 Server threadEx[01Jun2025 04:38:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO joined the game
-Server threadEx
+Server threadEx[01Jun2025 05:14:59.569] [User Authenticator #10/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #10Ex[01Jun2025 05:15:00.524] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.156.60.163:59603] logged in with entity id 31961 at (-390.82674095940325, 64.0, -999.8990135369253)
+Server threadEx[01Jun2025 05:15:00.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[01Jun2025 05:15:03.587] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[01Jun2025 05:15:03.588] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[01Jun2025 05:15:04.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:15:05.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:15:05.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:16:30.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:16:30.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Trejos1111
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:16:30.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:16:50.615] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Timed out
+Server threadEx[01Jun2025 05:16:50.615] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[01Jun2025 05:16:50.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[01Jun2025 05:17:09.283] [User Authenticator #11/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #11Ex[01Jun2025 05:17:10.159] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.156.60.163:39317] logged in with entity id 33209 at (-369.3991454953286, 66.0, -1002.921681968847)
+Server threadEx[01Jun2025 05:17:10.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[01Jun2025 05:17:11.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[01Jun2025 05:17:11.624] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[01Jun2025 05:17:12.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:17:13.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:17:13.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:21:58.168] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s -394 63.5 -1293
+Server threadEx[01Jun2025 05:21:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to -393.500000, 63.500000, -1292.500000]
+Server threadEx[01Jun2025 05:26:25.370] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace_2
+Server threadEx[01Jun2025 05:28:40.625] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 05:29:45.799] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 05:30:37.364] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace_2
+Server threadEx[01Jun2025 05:30:39.712] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 05:30:55.001] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s -344 63.5 -1409
+Server threadEx[01Jun2025 05:30:55.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to -343.500000, 63.500000, -1408.500000]
+Server threadEx[01Jun2025 05:32:44.461] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[01Jun2025 05:32:44.461] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[01Jun2025 05:32:44.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[01Jun2025 05:33:18.744] [User Authenticator #12/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #12Ex[01Jun2025 05:33:19.841] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.156.60.163:34789] logged in with entity id 41455 at (-344.30654921499126, 94.0, -1410.3442658367373)
+Server threadEx[01Jun2025 05:33:19.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[01Jun2025 05:33:20.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[01Jun2025 05:33:20.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[01Jun2025 05:33:21.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:33:22.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[01Jun2025 05:33:22.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx
