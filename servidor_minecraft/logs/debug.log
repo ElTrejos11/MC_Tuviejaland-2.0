@@ -4842,4 +4842,13 @@ Server threadEx[01Jun2025 03:47:21.017] [Server thread/DEBUG] [voicechat/]: [voi
 Server threadEx[01Jun2025 03:47:21.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RICHARDESC207
 Server threadEx[01Jun2025 03:47:21.025] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
 VoiceChatPacketProcessingThreadEx[01Jun2025 03:47:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 left the game
+Server threadEx[01Jun2025 03:52:38.272] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /home
+Server threadEx[01Jun2025 03:54:19.771] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.inventory.EnchantmentContainer1Mixin from mixins.arclight.core.json into net.minecraft.class_1718$1
+Server threadEx[01Jun2025 03:55:56.900] [Netty Epoll Server IO #7/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/netty/handler/timeout/IdleStateHandler$2
+Netty Epoll Server IO #7Ex[01Jun2025 03:59:22.862] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun lost connection: Disconnected
+Server threadEx[01Jun2025 03:59:22.863] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mori_Jun
+Server threadEx[01Jun2025 03:59:22.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mori_Jun
+Server threadEx[01Jun2025 03:59:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun left the game
+Server threadEx[01Jun2025 04:00:19.899] [Server thread/INFO] [net.minecraft.class_3244/]: pipi_caliente69 issued server command: /home
+Server threadEx[01Jun2025 04:01:02.699] [Server thread/WARN] [net.minecraft.class_3244/]: IlarilarieOhOHIO moved too quickly! -5.743556604986793,-2.323529123855721,12.909493899921415
 Server threadEx

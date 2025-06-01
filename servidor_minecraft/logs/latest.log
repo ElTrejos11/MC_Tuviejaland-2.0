@@ -467,4 +467,10 @@ Server threadEx[01Jun2025 03:44:20.572] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[01Jun2025 03:47:21.016] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 lost connection: Disconnected
 Server threadEx[01Jun2025 03:47:21.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RICHARDESC207
 Server threadEx[01Jun2025 03:47:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 left the game
+Server threadEx[01Jun2025 03:52:38.272] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /home
+Server threadEx[01Jun2025 03:59:22.862] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun lost connection: Disconnected
+Server threadEx[01Jun2025 03:59:22.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mori_Jun
+Server threadEx[01Jun2025 03:59:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun left the game
+Server threadEx[01Jun2025 04:00:19.899] [Server thread/INFO] [net.minecraft.class_3244/]: pipi_caliente69 issued server command: /home
+Server threadEx[01Jun2025 04:01:02.699] [Server thread/WARN] [net.minecraft.class_3244/]: IlarilarieOhOHIO moved too quickly! -5.743556604986793,-2.323529123855721,12.909493899921415
 Server threadEx
