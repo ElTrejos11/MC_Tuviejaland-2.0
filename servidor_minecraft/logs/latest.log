@@ -1,22 +1,239 @@
-[16:41:40] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[16:41:40] [ForkJoinPool-1-worker-4/WARN]: Mod roguelike uses the version 2.0.5beta-1.20.6-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '5beta'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:41:40] [main/WARN]: Mod resolution failed
-[16:41:40] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE artifacts 10.0.11 {depends architectury @ [*]}, ROOT_FORCELOAD_SINGLE artifacts 10.0.11]
-[16:41:40] [main/INFO]: Reason: [HARD_DEP artifacts 10.0.11 {depends architectury @ [*]}, HARD_DEP artifacts 10.0.11 {depends cloth-config @ [*]}]
-[16:41:40] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-rendering-v0, fabric-sound-api-v1, fabric-key-binding-api-v1, fabric-rendering-v1]
-[16:41:40] [main/INFO]: Fix: add [add:architectury 1 ([(-∞,∞)]), add:cloth-config 1 ([(-∞,∞)])], remove [], replace []
-[16:41:40] [main/ERROR]: Incompatible mods found!
-net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
-A potential solution has been determined, this may resolve your problem:
-	 - Install architectury, any version.
-	 - Install cloth-config, any version.
-More details:
-	 - Mod 'Artifacts' (artifacts) 10.0.11 requires any version of architectury, which is missing!
-	 - Mod 'Artifacts' (artifacts) 10.0.11 requires any version of cloth-config, which is missing!
-	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[16:46:56] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[16:46:57] [main/INFO]: Loading 78 mods:
+	- architectury 11.1.17
+	- artifacts 10.0.11
+	   |-- cardinal-components-base 5.4.0
+	   |-- cardinal-components-entity 5.4.0
+	   |-- expandability 10.0.1
+	   \-- step-height-entity-attribute 1.2.0
+	- blossom-homes 2.2.2+1.20.4
+	- blossom-lib 2.5.6+1.20.4
+	   \-- server_translations_api 2.2.0+1.20.3-rc1
+	- cloth-config 13.0.138
+	   \-- cloth-basic-math 0.6.1
+	- easyanvils 20.4.6
+	- easymagic 20.4.0
+	- fabric-api 0.97.2+1.20.4
+	   |-- fabric-api-base 0.4.37+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.17+78d798af4f
+	   |-- fabric-block-api-v1 1.0.17+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.5+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.8+78d798af4f
+	   |-- fabric-command-api-v1 1.2.42+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.21+78d798af4f
+	   |-- fabric-commands-v0 0.2.59+df3654b34f
+	   |-- fabric-containers-v0 0.1.88+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.16+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.11+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.24+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.5+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.6+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.63+6605d1a84f
+	   |-- fabric-entity-events-v1 1.6.2+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.2+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.75+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.47+78d798af4f
+	   |-- fabric-item-api-v1 2.3.0+bcdd12964f
+	   |-- fabric-item-group-api-v1 4.0.27+ee30b13a4f
+	   |-- fabric-key-binding-api-v1 1.0.42+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.40+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.10+78d798af4f
+	   |-- fabric-message-api-v1 6.0.6+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.66+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.9+78d798af4f
+	   |-- fabric-models-v0 0.4.8+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.9+6abb6a4b4f
+	   |-- fabric-object-builder-api-v1 13.1.0+dba1195c4f
+	   |-- fabric-particles-v1 1.1.8+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.22+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.21+ee30b13a4f
+	   |-- fabric-renderer-api-v1 3.2.5+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.6+d331d3144f
+	   |-- fabric-renderer-registries-v1 3.2.54+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.2+e761c6694f
+	   |-- fabric-rendering-v0 1.1.57+df3654b34f
+	   |-- fabric-rendering-v1 3.2.1+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.21+ee30b13a4f
+	   |-- fabric-screen-api-v1 2.0.18+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.57+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.18+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.12+90f2d7b14f
+	   \-- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
+	- fabric-permissions-api-v0 0.3.1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- forgeconfigapiport 20.4.3
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
+	- incapacitated 1.6.1
+	   |-- cardinal-components-base 5.4.0
+	   \-- cardinal-components-entity 5.4.0
+	- java 21
+	- minecraft 1.20.4
+	- puzzleslib 20.4.52
+	- skinrestorer 2.3.2+1.20.3-fabric
+	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
+	- teleport_commands 1.1.0
+	- trinkets 3.8.1
+	   |-- cardinal-components-base 5.4.0
+	   \-- cardinal-components-entity 5.4.0
+	- universal-graves 3.2.2+1.20.4
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.3.0+1.20.3
+	   |-- polymer-core 0.7.7+1.20.4
+	   |    |-- polymer-networking 0.7.7+1.20.4
+	   |    |    \-- polymer-common 0.7.7+1.20.4
+	   |    |         \-- packet_tweaker 0.5.1+1.20.4
+	   |    \-- polymer-registry-sync-manipulator 0.7.7+1.20.4
+	   |-- polymer-resource-pack 0.7.7+1.20.4
+	   |    \-- polymer-common 0.7.7+1.20.4
+	   |         \-- packet_tweaker 0.5.1+1.20.4
+	   |-- polymer-virtual-entity 0.7.7+1.20.4
+	   |    \-- polymer-common 0.7.7+1.20.4
+	   |         \-- packet_tweaker 0.5.1+1.20.4
+	   |-- predicate-api 0.3.0+1.20.2
+	   |-- server_translations_api 2.2.0+1.20.3-rc1
+	   \-- sgui 1.4.2+1.20.4
+	- voicechat 1.20.4-2.5.22
+	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
+[16:46:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:46:57] [main/INFO]: Compatibility level set to JAVA_16
+[16:46:57] [main/INFO]: Compatibility level set to JAVA_17
+[16:46:57] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:46:57] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:46:58] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[16:46:58] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16:47:06] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16:47:06] [main/ERROR]: No data fixer registered for artifacts:mimic
+[16:47:06] [main/INFO]: Constructing common components for easyanvils:main
+[16:47:06] [main/INFO]: Loading common config for easyanvils
+[16:47:06] [Thread-2/INFO]: Reloading common config for easyanvils
+[16:47:06] [main/INFO]: Constructing common components for easymagic:main
+[16:47:06] [main/INFO]: ExpandAbility here, who dis?
+[16:47:06] [main/INFO]: Constructing common components for puzzleslib:main
+[16:47:07] [main/INFO]: [voicechat] Compatibility version 18
+[16:47:07] [main/INFO]: [voicechat] Loading plugins
+[16:47:07] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:47:07] [main/INFO]: [voicechat] Initializing plugins
+[16:47:07] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:47:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:47:09] [main/INFO]: Loaded 7 recipes
+[16:47:09] [main/INFO]: Loaded 1274 advancements
+[16:47:09] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 103 translation keys
+[16:47:10] [main/INFO]: Applied 53 biome modifications to 53 of 64 new biomes in 9.141 ms
+[16:47:10] [Server thread/INFO]: Loading server config for easyanvils
+[16:47:10] [Thread-2/INFO]: Reloading server config for easyanvils
+[16:47:10] [Thread-2/INFO]: Reloading server config for easyanvils
+[16:47:10] [Server thread/INFO]: Loading server config for easymagic
+[16:47:10] [Thread-2/INFO]: Reloading server config for easymagic
+[16:47:10] [Thread-2/INFO]: Reloading server config for easymagic
+[16:47:10] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[16:47:10] [Server thread/INFO]: Loading properties
+[16:47:10] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:10] [Server thread/INFO]: Generating keypair
+[16:47:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:10] [Server thread/INFO]: Using epoll channel type
+[16:47:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:47:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:47:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:47:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:47:10] [Server thread/INFO]: Preparing level "world"
+[16:47:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:47:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:19] [Worker-Main-3/INFO]: Preparing spawn area: 8%
+[16:47:19] [Worker-Main-3/INFO]: Preparing spawn area: 23%
+[16:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[16:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[16:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[16:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[16:47:22] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[16:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[16:47:23] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[16:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[16:47:24] [Worker-Main-3/INFO]: Preparing spawn area: 70%
+[16:47:24] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:47:25] [Server thread/INFO]: Time elapsed: 10544 ms
+[16:47:25] [Server thread/INFO]: Done (14.341s)! For help, type "help"
+[16:47:25] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:47:25] [Server thread/INFO]: Initializing Teleport Commands! Hello Fabric!
+[16:47:25] [Server thread/INFO]: Cleaning and updating Storage!
+[16:47:25] [Server thread/INFO]: Success! Cleaned: 0B
+[16:47:25] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
+[16:47:25] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
+[16:47:27] [Server thread/INFO]: RASTEROL[/127.154.181.90:39369] logged in with entity id 34 at (759.8625000119209, 68.0, -247.69999998807907)
+[16:47:27] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[16:47:27] [Server thread/INFO]: RASTEROL joined the game
+[16:47:29] [Server thread/INFO]: [voicechat] Received secret request of RASTEROL (18)
+[16:47:29] [Server thread/INFO]: [voicechat] Sent secret to RASTEROL
+[16:47:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7275d4a0-d030-3899-88db-6233bb178a88
+[16:47:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7275d4a0-d030-3899-88db-6233bb178a88
+[16:47:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RASTEROL (7275d4a0-d030-3899-88db-6233bb178a88) successfully connected to voice chat
+[16:47:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ff9b472[id=a9438318-3f43-38b6-893d-7245ccfe2514,name=Trejos1111,properties={}] lost connection: Disconnected
+[16:48:20] [Server thread/INFO]: Chocorramo_XXX[/127.57.143.3:34725] logged in with entity id 373 at (26.5, 71.0, -60.5)
+[16:48:20] [Server thread/INFO]: Chocorramo_XXX joined the game
+[16:48:26] [Server thread/INFO]: [voicechat] Received secret request of Chocorramo_XXX (18)
+[16:48:26] [Server thread/INFO]: [voicechat] Sent secret to Chocorramo_XXX
+[16:48:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 495a40b7-29be-398c-98b3-ea7769157b5d
+[16:48:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 495a40b7-29be-398c-98b3-ea7769157b5d
+[16:48:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chocorramo_XXX (495a40b7-29be-398c-98b3-ea7769157b5d) successfully connected to voice chat
+[16:49:54] [Server thread/INFO]: Trejos1111[/127.156.60.163:40097] logged in with entity id 947 at (-329.13961264695405, 49.0, -989.6226282875606)
+[16:49:54] [Server thread/INFO]: Trejos1111 joined the game
+[16:49:56] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[16:49:56] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[16:49:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[16:49:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[16:49:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[16:50:27] [Server thread/INFO]: Made Trejos1111 a server operator
+[16:50:37] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to RASTEROL]
+[16:50:58] [Server thread/INFO]: [Not Secure] <Trejos1111> me escucha?
+[16:51:02] [Server thread/INFO]: [Not Secure] <RASTEROL> no
+[16:51:10] [Server thread/INFO]: [Not Secure] <Trejos1111> dele a la v
+[16:51:37] [Server thread/INFO]: [Not Secure] <Trejos1111> se ensordecio
+[16:51:46] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:59425] logged in with entity id 1932 at (25.5, 71.0, -60.5)
+[16:51:47] [Server thread/INFO]: JEspantaViejas joined the game
+[16:51:48] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[16:51:48] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[16:51:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[16:51:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[16:51:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[16:52:02] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[16:52:02] [Server thread/INFO]: JEspantaViejas left the game
+[16:52:02] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[16:52:06] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:33129] logged in with entity id 2127 at (42.134372874257195, 71.1212968405392, -65.98205990621268)
+[16:52:06] [Server thread/INFO]: JEspantaViejas joined the game
+[16:52:07] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[16:52:07] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[16:52:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[16:52:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[16:52:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[16:52:43] [Server thread/INFO]: Player 'a9438318-3f43-38b6-893d-7245ccfe2514' added successfully in storage!
+[16:52:43] [Server thread/ERROR]: java.lang.NullPointerException
+[16:52:46] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[16:52:46] [Server thread/INFO]: JEspantaViejas left the game
+[16:52:46] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[16:52:54] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to -408.500000, 68.500000, -1016.500000]
+[16:53:18] [Server thread/ERROR]: java.lang.NullPointerException
+[16:53:32] [Server thread/ERROR]: java.lang.NullPointerException
+[16:56:14] [Thread-2/INFO]: Reloading server config for easymagic
+[16:56:14] [Thread-2/INFO]: Reloading server config for easymagic
+[16:56:15] [Thread-2/INFO]: Reloading server config for easymagic
+[16:56:15] [Thread-2/INFO]: Reloading server config for easymagic
