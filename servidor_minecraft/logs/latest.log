@@ -1,95 +1,22 @@
-[01Jun2025 06:45:04.511] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.20.4 Arclight arclight-1.20.4-1.0.4-80ec5df with Fabric Loader 0.15.11
-mainEx[01Jun2025 06:45:04.699] [main/INFO] [FabricLoader/]: Loading 44 mods:
-	- arclight 1.0.4+80ec5df
-	- fabric-api 0.97.1+1.20.4
-	   |-- fabric-api-base 0.4.37+78d798af4f
-	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
-	   |-- fabric-biome-api-v1 13.0.17+78d798af4f
-	   |-- fabric-block-api-v1 1.0.17+3e2216cb4f
-	   |-- fabric-block-view-api-v2 1.0.5+78d798af4f
-	   |-- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
-	   |-- fabric-client-tags-api-v1 1.1.8+78d798af4f
-	   |-- fabric-command-api-v1 1.2.42+f71b366f4f
-	   |-- fabric-command-api-v2 2.2.21+78d798af4f
-	   |-- fabric-commands-v0 0.2.59+df3654b34f
-	   |-- fabric-containers-v0 0.1.87+df3654b34f
-	   |-- fabric-content-registries-v0 5.0.16+78d798af4f
-	   |-- fabric-convention-tags-v1 1.5.11+78d798af4f
-	   |-- fabric-crash-report-info-v1 0.2.24+78d798af4f
-	   |-- fabric-data-attachment-api-v1 1.1.5+b90db5744f
-	   |-- fabric-data-generation-api-v1 13.2.5+5c0133444f
-	   |-- fabric-dimensions-v1 2.1.63+6605d1a84f
-	   |-- fabric-entity-events-v1 1.6.2+09fc25014f
-	   |-- fabric-events-interaction-v0 0.7.2+389931eb4f
-	   |-- fabric-events-lifecycle-v0 0.2.75+df3654b34f
-	   |-- fabric-game-rule-api-v1 1.0.47+78d798af4f
-	   |-- fabric-item-api-v1 2.3.0+bcdd12964f
-	   |-- fabric-item-group-api-v1 4.0.27+ee30b13a4f
-	   |-- fabric-key-binding-api-v1 1.0.42+78d798af4f
-	   |-- fabric-keybindings-v0 0.2.40+df3654b34f
-	   |-- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
-	   |-- fabric-loot-api-v2 2.1.10+78d798af4f
-	   |-- fabric-message-api-v1 6.0.6+78d798af4f
-	   |-- fabric-mining-level-api-v1 2.1.66+78d798af4f
-	   |-- fabric-model-loading-api-v1 1.0.9+78d798af4f
-	   |-- fabric-models-v0 0.4.8+9386d8a74f
-	   |-- fabric-networking-api-v1 3.1.8+2e5ac5484f
-	   |-- fabric-object-builder-api-v1 13.1.0+dba1195c4f
-	   |-- fabric-particles-v1 1.1.8+78d798af4f
-	   |-- fabric-recipe-api-v1 2.0.21+78d798af4f
-	   |-- fabric-registry-sync-v0 4.0.20+ee30b13a4f
-	   |-- fabric-renderer-api-v1 3.2.5+78d798af4f
-	   |-- fabric-renderer-indigo 1.5.6+d331d3144f
-	   |-- fabric-renderer-registries-v1 3.2.54+df3654b34f
-	   |-- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
-	   |-- fabric-rendering-fluids-v1 3.1.2+e761c6694f
-	   |-- fabric-rendering-v0 1.1.57+df3654b34f
-	   |-- fabric-rendering-v1 3.2.1+6fd945a04f
-	   |-- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
-	   |-- fabric-resource-loader-v0 0.11.21+ee30b13a4f
-	   |-- fabric-screen-api-v1 2.0.18+78d798af4f
-	   |-- fabric-screen-handler-api-v1 1.3.56+78d798af4f
-	   |-- fabric-sound-api-v1 1.0.18+78d798af4f
-	   |-- fabric-transfer-api-v1 4.0.12+90f2d7b14f
-	   \-- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
-	- fabricloader 0.15.11
-	   \-- mixinextras 0.3.5
-	- java 21
-	- minecraft 1.20.4
-	- voicechat 1.20.4-2.5.22
-	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
-mainEx[01Jun2025 06:45:04.792] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-mainEx[01Jun2025 06:45:04.851] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
-mainEx[01Jun2025 06:45:05.288] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
-mainEx[01Jun2025 06:45:05.291] [main/INFO] [Arclight/]: 
-
-       ___           ___     __   /\
-      /   | ________/ (_)__ / /  / /
-     / /| |/ __/ __/ / / _ / _ \/__/
-    / ___ / / / /_/ / / / / // / /
-   /_/  |/_/  \__/_/_/\_ /_//_/ /
-                     /__/     \/
-
-    Version 附耳 (Whisper) / arclight-1.20.4-1.0.4-80ec5df
-    Build Date 2024-06-14 12:05:55
-
-mainEx[01Jun2025 06:45:06.720] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-mainEx[01Jun2025 06:45:18.229] [main/INFO] [voicechat/]: [voicechat] Compatibility version 18
-mainEx[01Jun2025 06:45:18.376] [main/INFO] [voicechat/]: [voicechat] Loading plugins
-mainEx[01Jun2025 06:45:18.376] [main/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-mainEx[01Jun2025 06:45:18.376] [main/INFO] [voicechat/]: [voicechat] Initializing plugins
-mainEx[01Jun2025 06:45:18.376] [main/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-mainEx[01Jun2025 06:45:18.473] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-mainEx[01Jun2025 06:45:18.554] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-mainEx net.minecraft.class_5125$class_5126: /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.class_5125$class_5126.method_26805(class_5125.java:95) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5125.method_26803(class_5125.java:41) ~[server-intermediary.jar:?]
-	at net.minecraft.class_32$class_5143.<init>(LevelStorageSource_LevelStorageAccessMixin.java:394) ~[server-intermediary.jar:?]
-	at net.minecraft.class_32.method_52236(LevelStorageSourceMixin.java:373) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:133) ~[server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.15.11.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.15.11.jar:?]
-	at io.izzel.arclight.boot.fabric.application.Main_Fabric.main(Main_Fabric.java:33) ~[arclight.jar:arclight-1.20.4-1.0.4-80ec5df]
-	at io.izzel.arclight.server.Launcher.main(Launcher.java:39) ~[arclight.jar:arclight-1.20.4-1.0.4-80ec5df]
+[16:41:40] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[16:41:40] [ForkJoinPool-1-worker-4/WARN]: Mod roguelike uses the version 2.0.5beta-1.20.6-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '5beta'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:41:40] [main/WARN]: Mod resolution failed
+[16:41:40] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE artifacts 10.0.11 {depends architectury @ [*]}, ROOT_FORCELOAD_SINGLE artifacts 10.0.11]
+[16:41:40] [main/INFO]: Reason: [HARD_DEP artifacts 10.0.11 {depends architectury @ [*]}, HARD_DEP artifacts 10.0.11 {depends cloth-config @ [*]}]
+[16:41:40] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-rendering-v0, fabric-sound-api-v1, fabric-key-binding-api-v1, fabric-rendering-v1]
+[16:41:40] [main/INFO]: Fix: add [add:architectury 1 ([(-∞,∞)]), add:cloth-config 1 ([(-∞,∞)])], remove [], replace []
+[16:41:40] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install architectury, any version.
+	 - Install cloth-config, any version.
+More details:
+	 - Mod 'Artifacts' (artifacts) 10.0.11 requires any version of architectury, which is missing!
+	 - Mod 'Artifacts' (artifacts) 10.0.11 requires any version of cloth-config, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
