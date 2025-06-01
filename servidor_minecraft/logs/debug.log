@@ -4855,4 +4855,7 @@ Server threadEx[01Jun2025 04:04:53.660] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[01Jun2025 04:04:53.660] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pipi_caliente69
 Server threadEx[01Jun2025 04:04:53.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pipi_caliente69
 Server threadEx[01Jun2025 04:04:53.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipi_caliente69 left the game
+Server threadEx[01Jun2025 04:29:44.657] [Server thread/DEBUG] [FabricLoader/Mixin/]: Generating mapped inner class net/minecraft/class_2665$1BlockList$2912525e4dab4d9c95d1f5634d61d96d (originally io/izzel/arclight/common/mixin/core/world/level/block/PistonBaseBlockMixin$1BlockList)
+Server threadEx[01Jun2025 04:29:44.663] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_4623$1
+Server threadEx[01Jun2025 04:32:33.890] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2341$1
 Server threadEx
