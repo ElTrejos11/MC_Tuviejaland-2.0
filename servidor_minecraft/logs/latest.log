@@ -237,3 +237,47 @@
 [16:56:14] [Thread-2/INFO]: Reloading server config for easymagic
 [16:56:15] [Thread-2/INFO]: Reloading server config for easymagic
 [16:56:15] [Thread-2/INFO]: Reloading server config for easymagic
+[16:56:58] [Thread-2/WARN]: Configuration file /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/./config/easymagic-server.toml is not correct. Correcting
+[16:56:58] [Thread-2/WARN]: Incorrect key max_enchanting_power was corrected from null to its default, 15. 
+[16:56:58] [Thread-2/WARN]: Incorrect key reroll_enchantments was corrected from null to its default, true. 
+[16:56:58] [Thread-2/WARN]: Incorrect key rerolling_takes_enchantment_levels was corrected from null to its default, false. 
+[16:56:58] [Thread-2/WARN]: Incorrect key lenient_bookshelves was corrected from null to its default, true. 
+[16:56:58] [Thread-2/WARN]: Incorrect key disable_vanilla_enchanting_table was corrected from null to its default, true. 
+[16:56:58] [Thread-2/WARN]: Incorrect key reroll_catalyst_cost was corrected from null to its default, 1. 
+[16:56:58] [Thread-2/WARN]: Incorrect key enchantment_hint was corrected from null to its default, SINGLE. 
+[16:56:58] [Thread-2/WARN]: Incorrect key chiseled_bookshelf_enchanting_power was corrected from null to its default, FACING. 
+[16:56:58] [Thread-2/WARN]: Incorrect key dedicated_reroll_catalyst was corrected from null to its default, false. 
+[16:56:58] [Thread-2/WARN]: Incorrect key reroll_experience_points_cost was corrected from null to its default, 5. 
+[16:56:58] [Thread-2/INFO]: Reloading server config for easymagic
+[16:57:02] [Thread-2/INFO]: Reloading server config for easymagic
+[16:57:02] [Thread-2/INFO]: Reloading server config for easymagic
+[16:59:39] [Server thread/WARN]: Acacia Boat (vehicle of Chocorramo_XXX) moved wrongly! 1.2389600947499275
+[16:59:39] [Server thread/WARN]: Acacia Boat (vehicle of Chocorramo_XXX) moved wrongly! 1.2749470306340527
+[16:59:39] [Server thread/WARN]: Acacia Boat (vehicle of Chocorramo_XXX) moved wrongly! 1.3073352720717821
+[16:59:59] [Server thread/INFO]: [Trejos1111: Reloading!]
+[16:59:59] [Server thread/INFO]: Loaded 7 recipes
+[16:59:59] [Server thread/INFO]: Loaded 1274 advancements
+[16:59:59] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 103 translation keys
+[17:00:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@272a4135[id=2f54cbf8-3649-31fa-8ab2-8b5666c637c1,name=JEspantaViejas,properties={}] lost connection: Disconnected
+[17:00:07] [Server thread/INFO]: Chocorramo_XXX has made the advancement [Stone Age]
+[17:00:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bba44ad[id=2f54cbf8-3649-31fa-8ab2-8b5666c637c1,name=JEspantaViejas,properties={}] lost connection: Disconnected
+[17:00:30] [Server thread/INFO]: [Not Secure] <Trejos1111> voy a reiniciar el server
+[17:00:34] [Server thread/INFO]: Chocorramo_XXX has made the advancement [Getting an Upgrade]
+[17:00:39] [Server thread/INFO]: [Not Secure] <Trejos1111> 5 min
+[17:00:43] [Server thread/INFO]: [Not Secure] <RASTEROL> ok
+[17:00:51] [Server thread/INFO]: [Trejos1111: Saved the game]
+[17:00:56] [Server thread/INFO]: [Trejos1111: Stopping the server]
+[17:00:56] [Server thread/INFO]: Stopping server
+[17:00:56] [Server thread/INFO]: Saving players
+[17:00:56] [Server thread/INFO]: RASTEROL lost connection: Server closed
+[17:00:56] [Server thread/INFO]: RASTEROL left the game
+[17:00:56] [Server thread/INFO]: Saving worlds
+[17:00:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:00:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:00:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:00:59] [Server thread/INFO]: Unloading server config for easyanvils
+[17:00:59] [Server thread/INFO]: Unloading server config for easymagic
