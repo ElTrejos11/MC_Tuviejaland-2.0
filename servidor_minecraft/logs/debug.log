@@ -5266,4 +5266,25 @@ Worker-Main-2Ex[01Jun2025 06:29:23.962] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[01Jun2025 06:29:23.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
 Server threadEx[01Jun2025 06:30:58.921] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp @s 281 60.5 -762
 Server threadEx[01Jun2025 06:30:59.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 281.500000, 60.500000, -761.500000]
+Server threadEx[01Jun2025 06:36:22.131] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:36:29.711] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:36:43.595] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /sethome blaze
+Server threadEx[01Jun2025 06:36:52.117] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace_2
+Server threadEx[01Jun2025 06:37:21.162] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[01Jun2025 06:37:30.114] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /home
+Server threadEx[01Jun2025 06:37:34.946] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /giveup
+Server threadEx[01Jun2025 06:37:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO died
+Server threadEx[01Jun2025 06:37:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [What a Deal!]
+Server threadEx[01Jun2025 06:40:22.745] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace
+Server threadEx[01Jun2025 06:40:48.568] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:41:59.001] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> bueno bro bye
+Async Chat Thread - #13Ex[01Jun2025 06:42:04.761] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> bye
+Async Chat Thread - #12Ex[01Jun2025 06:42:25.687] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> cuando acabe pone en el dis !detener
+Async Chat Thread - #13Ex[01Jun2025 06:42:34.861] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> bue
+Async Chat Thread - #13Ex[01Jun2025 06:42:52.200] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> en el canal de ip
+Async Chat Thread - #13Ex[01Jun2025 06:42:57.253] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> bye
+Async Chat Thread - #12Ex[01Jun2025 06:42:58.962] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[01Jun2025 06:42:58.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Trejos1111
+Server threadEx[01Jun2025 06:42:58.962] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[01Jun2025 06:42:58.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
 Server threadEx
