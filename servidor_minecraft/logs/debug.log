@@ -5188,4 +5188,63 @@ VoiceChatPacketProcessingThreadEx[01Jun2025 05:33:22.338] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[01Jun2025 05:33:22.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
 VoiceChatPacketProcessingThreadEx[01Jun2025 05:33:22.438] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a91030e6],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
 Netty Epoll Server IO #6Ex[01Jun2025 05:33:22.438] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=true, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+Server threadEx[01Jun2025 05:36:46.097] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 05:38:02.129] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 05:41:36.172] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_3572$1
+Worker-Main-3Ex[01Jun2025 05:45:50.522] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding so bad..
+Server threadEx[01Jun2025 05:45:59.758] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> uy
+Async Chat Thread - #3Ex[01Jun2025 05:46:09.026] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /giveup
+Server threadEx[01Jun2025 05:46:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO died
+Server threadEx[01Jun2025 05:47:33.884] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> hey bro haz utilizado el comando homes?
+Async Chat Thread - #5Ex[01Jun2025 05:47:39.924] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> no
+Async Chat Thread - #5Ex[01Jun2025 05:47:42.706] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> existe?
+Async Chat Thread - #4Ex[01Jun2025 05:47:46.140] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> si
+Async Chat Thread - #4Ex[01Jun2025 05:48:00.004] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> alguien de tu team lo utiliza
+Async Chat Thread - #5Ex[01Jun2025 05:48:04.224] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Pero el de tp
+Async Chat Thread - #4Ex[01Jun2025 05:48:13.641] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> O el de guardar como una colonia
+Async Chat Thread - #5Ex[01Jun2025 05:48:31.625] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> es para que le diga que si lo tienen que guarden las cords
+Async Chat Thread - #4Ex[01Jun2025 05:48:52.891] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> por que lo voy a cambiar por otro
+Async Chat Thread - #4Ex[01Jun2025 05:49:05.559] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Pues me se de memoria donde vivo
+Async Chat Thread - #5Ex[01Jun2025 05:49:06.809] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> es plugin da problemas
+Async Chat Thread - #5Ex[01Jun2025 05:49:20.702] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> avisale a tu team
+Async Chat Thread - #4Ex[01Jun2025 05:49:54.642] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> si lo nececitas
+Async Chat Thread - #5Ex[01Jun2025 05:50:07.684] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> bue
+Async Chat Thread - #4Ex[01Jun2025 05:50:21.030] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> es /sethome <nombre del lugar>
+Async Chat Thread - #5Ex[01Jun2025 05:50:47.724] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Pero lo vas a quitar o no?
+Async Chat Thread - #4Ex[01Jun2025 05:51:06.006] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> no solo lo voy a cambiar
+Async Chat Thread - #5Ex[01Jun2025 05:51:15.526] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Entonces cuando lo cambies lo uso
+Async Chat Thread - #4Ex[01Jun2025 05:51:23.699] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> pero si te sirve
+Async Chat Thread - #4Ex[01Jun2025 05:51:41.688] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> ya miro
+Async Chat Thread - #4Ex[01Jun2025 05:56:06.681] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> trejos tienes
+Async Chat Thread - #7Ex[01Jun2025 05:56:20.720] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> mucha pero mucha pizarra profunda?
+Async Chat Thread - #7Ex[01Jun2025 05:56:42.253] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> nop solo piedra y madera
+Async Chat Thread - #6Ex[01Jun2025 05:56:49.038] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> va
+Async Chat Thread - #7Ex[01Jun2025 05:57:31.158] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> podrian usar un duper de tnt
+Async Chat Thread - #6Ex[01Jun2025 05:57:50.007] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Y como farmeo esa piedra
+Async Chat Thread - #6Ex[01Jun2025 05:57:54.388] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> porque que pereza minar eso
+Async Chat Thread - #7Ex[01Jun2025 05:57:56.882] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> No e visto manera
+Async Chat Thread - #6Ex[01Jun2025 05:58:33.646] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> esa piedra no se puede instaminar
+Async Chat Thread - #7Ex[01Jun2025 05:58:47.599] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> y es re lenta
+Async Chat Thread - #6Ex[01Jun2025 06:01:39.294] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> necesitare un whiter
+Async Chat Thread - #9Ex[01Jun2025 06:01:42.093] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> ah que pereza
+Async Chat Thread - #9Ex[01Jun2025 06:01:44.125] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> otro dia
+Async Chat Thread - #8Ex[01Jun2025 06:03:43.428] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> una opcion es el duper
+Async Chat Thread - #11Ex[01Jun2025 06:03:54.061] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> No quiero picarla
+Async Chat Thread - #11Ex[01Jun2025 06:04:03.237] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Quiero obtenerla
+Async Chat Thread - #10Ex[01Jun2025 06:04:13.908] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> El duper la revienta y elimina
+Async Chat Thread - #11Ex[01Jun2025 06:04:14.985] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> el duper de tnt solo es explotar
+Async Chat Thread - #10Ex[01Jun2025 06:07:29.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Cover Me with Diamonds]
+Server threadEx[01Jun2025 06:10:02.132] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode creative
+Server threadEx[01Jun2025 06:10:02.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
+Server threadEx[01Jun2025 06:10:04.002] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[01Jun2025 06:10:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[01Jun2025 06:10:46.401] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:11:48.709] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:13:55.545] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:14:51.792] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:15:16.833] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:16:16.960] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+Server threadEx[01Jun2025 06:16:24.960] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[01Jun2025 06:19:08.260] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2349$1
+Server threadEx[01Jun2025 06:22:01.363] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
 Server threadEx
