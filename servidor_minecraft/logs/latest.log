@@ -330,3 +330,56 @@
 [03:45:59] [Server thread/INFO]: RASTEROL lost connection: Timed out
 [03:45:59] [Server thread/INFO]: RASTEROL left the game
 [03:45:59] [Server thread/INFO]: [voicechat] Disconnecting client RASTEROL
+[03:47:30] [Server thread/ERROR]: java.lang.NullPointerException
+[03:47:30] [Server thread/ERROR]: java.lang.NullPointerException
+[03:47:30] [Server thread/ERROR]: java.lang.NullPointerException
+[03:47:30] [Server thread/ERROR]: java.lang.NullPointerException
+[03:47:32] [Server thread/ERROR]: java.lang.NullPointerException
+[03:47:32] [Server thread/ERROR]: java.lang.NullPointerException
+[03:47:44] [Server thread/INFO]: RASTEROL[/127.154.181.90:34765] logged in with entity id 18332 at (752.5729743592804, 58.0, -293.5518269017962)
+[03:47:44] [Server thread/INFO]: RASTEROL joined the game
+[03:47:45] [Server thread/INFO]: [voicechat] Received secret request of RASTEROL (18)
+[03:47:45] [Server thread/INFO]: [voicechat] Sent secret to RASTEROL
+[03:47:50] [Server thread/INFO]: Chocorramo_XXX lost connection: Disconnected
+[03:47:50] [Server thread/INFO]: Chocorramo_XXX left the game
+[03:47:50] [Server thread/INFO]: [voicechat] Disconnecting client Chocorramo_XXX
+[03:47:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7275d4a0-d030-3899-88db-6233bb178a88
+[03:47:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7275d4a0-d030-3899-88db-6233bb178a88
+[03:47:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RASTEROL (7275d4a0-d030-3899-88db-6233bb178a88) successfully connected to voice chat
+[03:48:17] [Server thread/INFO]: [Not Secure] <xHARITOLx> tengo 5 stacks , les alcanza
+[03:48:18] [Server thread/INFO]: [Not Secure] <xHARITOLx> ?
+[03:48:30] [Server thread/INFO]: [Not Secure] <pipi_caliente69> yo creo q si
+[03:48:35] [Server thread/WARN]: RASTEROL moved too quickly! -1.410798684031647,0.0,10.09630682790555
+[03:48:44] [Server thread/INFO]: RASTEROL lost connection: Timed out
+[03:48:44] [Server thread/INFO]: RASTEROL left the game
+[03:48:44] [Server thread/INFO]: [voicechat] Disconnecting client RASTEROL
+[03:49:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@4bf0d50a[id=7275d4a0-d030-3899-88db-6233bb178a88,name=RASTEROL,properties={}] lost connection: Disconnected
+[03:50:06] [Server thread/ERROR]: java.lang.NullPointerException
+[03:50:12] [Server thread/ERROR]: java.lang.NullPointerException
+[03:50:14] [Server thread/INFO]: RASTEROL[/127.154.181.90:34769] logged in with entity id 21157 at (750.8282731043275, 58.0, -269.55317294402204)
+[03:50:14] [Server thread/INFO]: RASTEROL joined the game
+[03:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[03:50:15] [Server thread/INFO]: [voicechat] Received secret request of RASTEROL (18)
+[03:50:15] [Server thread/INFO]: [voicechat] Sent secret to RASTEROL
+[03:50:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7275d4a0-d030-3899-88db-6233bb178a88
+[03:50:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7275d4a0-d030-3899-88db-6233bb178a88
+[03:50:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RASTEROL (7275d4a0-d030-3899-88db-6233bb178a88) successfully connected to voice chat
+[03:50:32] [Server thread/ERROR]: java.lang.NullPointerException
+[03:51:31] [Server thread/ERROR]: java.lang.NullPointerException
+[03:51:31] [Server thread/ERROR]: java.lang.NullPointerException
+[03:51:31] [Server thread/ERROR]: java.lang.NullPointerException
+[03:51:31] [Server thread/ERROR]: java.lang.NullPointerException
+[03:51:37] [Server thread/ERROR]: java.lang.NullPointerException
+[03:51:37] [Server thread/ERROR]: java.lang.NullPointerException
+[03:53:45] [Server thread/INFO]: [Not Secure] <RICHARDESC207> 123
+[03:53:46] [Server thread/ERROR]: java.lang.NullPointerException
+[03:53:46] [Server thread/ERROR]: java.lang.NullPointerException
+[03:53:59] [Server thread/ERROR]: java.lang.NullPointerException
+[03:54:17] [Server thread/INFO]: RICHARDESC207 is incapacitated!
+[03:54:26] [Server thread/INFO]: RICHARDESC207 has been revived!
+[03:54:39] [Server thread/ERROR]: java.lang.NullPointerException
+[03:54:39] [Server thread/ERROR]: java.lang.NullPointerException
+[03:54:39] [Server thread/ERROR]: java.lang.NullPointerException
+[03:54:39] [Server thread/ERROR]: java.lang.NullPointerException
+[03:54:43] [Server thread/ERROR]: java.lang.NullPointerException
+[03:54:43] [Server thread/ERROR]: java.lang.NullPointerException
