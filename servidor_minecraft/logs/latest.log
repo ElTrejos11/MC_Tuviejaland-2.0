@@ -518,3 +518,113 @@
 [04:26:33] [Server thread/INFO]: [voicechat] Received secret request of RICHARDESC207 (18)
 [04:26:33] [Server thread/INFO]: [voicechat] Sent secret to RICHARDESC207
 [04:26:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[04:26:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[04:26:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+[04:29:12] [Server thread/INFO]: [Trejos1111: RICHARDESC207 has 0 incapacitations until death]
+[04:29:32] [Server thread/INFO]: [Trejos1111: RICHARDESC207 now has 1 incapacitations until death]
+[04:29:50] [Server thread/INFO]: [Trejos1111: RICHARDESC207 now has 0 incapacitations until death]
+[04:29:58] [Server thread/INFO]: [Trejos1111: RICHARDESC207 now has 1 incapacitations until death]
+[04:31:02] [Server thread/INFO]: DJ_cuajada09 lost connection: Disconnected
+[04:31:02] [Server thread/INFO]: DJ_cuajada09 left the game
+[04:31:02] [Server thread/INFO]: [voicechat] Disconnecting client DJ_cuajada09
+[04:31:03] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to 282.500000, 47.500000, -760.500000]
+[04:32:19] [Server thread/ERROR]: java.lang.NullPointerException
+[04:32:19] [Server thread/ERROR]: java.lang.NullPointerException
+[04:32:19] [Server thread/ERROR]: java.lang.NullPointerException
+[04:32:19] [Server thread/ERROR]: java.lang.NullPointerException
+[04:32:21] [Server thread/ERROR]: java.lang.NullPointerException
+[04:32:21] [Server thread/ERROR]: java.lang.NullPointerException
+[04:35:11] [ForkJoinPool.commonPool-worker-10/WARN]: Failed to fetch skin: not found
+[04:35:13] [Server thread/INFO]: DJ_cuajada09[/127.21.7.75:42813] logged in with entity id 64537 at (750.4884745414342, 58.0, -291.1217586463808)
+[04:35:13] [Server thread/INFO]: DJ_cuajada09 joined the game
+[04:35:14] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[04:35:14] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[04:35:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[04:35:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[04:35:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[04:36:24] [Server thread/ERROR]: java.lang.NullPointerException
+[04:36:24] [Server thread/ERROR]: java.lang.NullPointerException
+[04:36:24] [Server thread/ERROR]: java.lang.NullPointerException
+[04:36:24] [Server thread/ERROR]: java.lang.NullPointerException
+[04:36:28] [Server thread/ERROR]: java.lang.NullPointerException
+[04:36:28] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:22] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:22] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:22] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:22] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:27] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:35] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! 1.631185098505398,-10.761284510516703,-0.8400196291849795
+[04:37:36] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:36] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:36] [Server thread/ERROR]: java.lang.NullPointerException
+[04:37:53] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:03] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:03] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:03] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:03] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:06] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:07] [Server thread/ERROR]: java.lang.NullPointerException
+[04:38:07] [Server thread/ERROR]: java.lang.NullPointerException
+[04:39:01] [Server thread/ERROR]: java.lang.NullPointerException
+[04:40:24] [Server thread/ERROR]: java.lang.NullPointerException
+[04:40:57] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:41:23] [Server thread/INFO]: DJ_cuajada09 lost connection: Disconnected
+[04:41:23] [Server thread/INFO]: DJ_cuajada09 left the game
+[04:41:23] [Server thread/INFO]: [voicechat] Disconnecting client DJ_cuajada09
+[04:41:37] [ForkJoinPool.commonPool-worker-13/WARN]: Failed to fetch skin: not found
+[04:41:38] [Server thread/INFO]: DJ_cuajada09[/127.21.7.75:48637] logged in with entity id 72710 at (734.9409437953766, 68.0, -290.8252594224947)
+[04:41:38] [Server thread/INFO]: DJ_cuajada09 joined the game
+[04:41:39] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[04:41:39] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[04:41:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[04:41:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[04:41:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[04:41:47] [Server thread/INFO]: DJ_cuajada09 has been revived!
+[04:42:02] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:42:08] [Server thread/INFO]: DJ_cuajada09 fell from a high place
+[04:42:48] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:43:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 7275d4a0-d030-3899-88db-6233bb178a88 timed out
+[04:43:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player RASTEROL
+[04:43:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to RASTEROL
+[04:43:11] [Server thread/INFO]: RASTEROL lost connection: Timed out
+[04:43:11] [Server thread/INFO]: RASTEROL left the game
+[04:43:11] [Server thread/INFO]: [voicechat] Disconnecting client RASTEROL
+[04:43:59] [Server thread/INFO]: DJ_cuajada09 was blown up by Creeper
+[04:44:29] [Server thread/INFO]: [Not Secure] <xHARITOLx> contador de muestres pa cuando?
+[04:44:36] [Server thread/INFO]: [Not Secure] <pipi_caliente69> ooooooooooo
+[04:44:45] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> muestres xd
+[04:45:32] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! -0.7410738844730531,-11.064980402202252,0.670997740995432
+[04:46:10] [Server thread/INFO]: [Trejos1111: Set own game mode to Spectator Mode]
+[04:46:18] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[04:46:22] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:46:38] [Server thread/ERROR]: java.lang.NullPointerException
+[04:46:47] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[04:46:47] [Server thread/INFO]: Trejos1111 left the game
+[04:46:47] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[04:46:51] [Server thread/INFO]: Trejos1111[/127.156.60.163:36145] logged in with entity id 80567 at (-320.8634740043133, 49.0, -990.6014627201642)
+[04:46:51] [Server thread/INFO]: Trejos1111 joined the game
+[04:46:52] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[04:46:52] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[04:46:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[04:46:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[04:46:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[04:47:07] [Server thread/INFO]: DJ_cuajada09 was doomed to fall by Zombie
+[04:47:18] [Server thread/INFO]: [Not Secure] <xHARITOLx> algo
+[04:47:23] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! -0.11514823956667897,-10.531546555149873,-3.1209866762501974
+[04:47:47] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:48:26] [Server thread/INFO]: DJ_cuajada09 was slain by Zombie
+[04:48:28] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! -0.0071061737073705444,-10.801818083422376,-1.6980708455493527
+[04:49:42] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:50:05] [Server thread/INFO]: DJ_cuajada09 was slain by Zombie
+[04:50:40] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! -0.45930013560985117,-11.418310847881429,1.6842542391386814
+[04:51:33] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:51:56] [Server thread/INFO]: DJ_cuajada09 was slain by Zombie
+[04:54:45] [Server thread/INFO]: DJ_cuajada09 is incapacitated!
+[04:55:14] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:37] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:37] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:37] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:37] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:39] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:39] [Server thread/ERROR]: java.lang.NullPointerException
+[04:55:49] [Server thread/INFO]: DJ_cuajada09 has been revived!
