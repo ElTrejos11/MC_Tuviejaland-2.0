@@ -921,3 +921,22 @@
 [06:37:11] [Server thread/INFO]: [Trejos1111: Trejos1111 now has 10 incapacitations until death]
 [06:56:23] [Server thread/INFO]: [Trejos1111: Set own game mode to Spectator Mode]
 [06:56:52] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[07:12:28] [Server thread/INFO]: pipi_caliente69 lost connection: Disconnected
+[07:12:28] [Server thread/INFO]: pipi_caliente69 left the game
+[07:12:28] [Server thread/INFO]: [voicechat] Disconnecting client pipi_caliente69
+[07:13:43] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[07:13:43] [Server thread/INFO]: Trejos1111 left the game
+[07:13:43] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[07:14:01] [Server thread/INFO]: Stopping the server
+[07:14:01] [Server thread/INFO]: Stopping server
+[07:14:01] [Server thread/INFO]: Saving players
+[07:14:01] [Server thread/INFO]: Saving worlds
+[07:14:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:14:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:14:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:14:02] [Server thread/INFO]: Unloading server config for easyanvils
+[07:14:02] [Server thread/INFO]: Unloading server config for easymagic
