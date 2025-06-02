@@ -293,6 +293,7 @@
       "minecraft:blaze": "2025-06-01 02:04:20 +0000",
       "minecraft:skeleton": "2025-05-31 22:45:42 +0000",
       "minecraft:phantom": "2025-06-02 02:24:22 +0000",
+      "minecraft:witch": "2025-06-02 06:41:47 +0000",
       "minecraft:wither_skeleton": "2025-06-01 01:56:49 +0000",
       "minecraft:ghast": "2025-06-01 01:07:43 +0000",
       "minecraft:hoglin": "2025-06-01 01:12:30 +0000",
@@ -304,6 +305,7 @@
       "minecraft:zombie": "2025-05-31 23:54:53 +0000",
       "minecraft:creeper": "2025-05-31 23:56:16 +0000",
       "minecraft:drowned": "2025-05-31 23:56:00 +0000",
+      "minecraft:zombie_villager": "2025-06-02 06:41:21 +0000",
       "minecraft:slime": "2025-06-02 05:12:30 +0000"
     },
     "done": false
