@@ -919,3 +919,5 @@
 [06:37:00] [Server thread/ERROR]: java.lang.NullPointerException
 [06:37:09] [Server thread/INFO]: Trejos1111 has been revived!
 [06:37:11] [Server thread/INFO]: [Trejos1111: Trejos1111 now has 10 incapacitations until death]
+[06:56:23] [Server thread/INFO]: [Trejos1111: Set own game mode to Spectator Mode]
+[06:56:52] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
