@@ -7,7 +7,7 @@
 # ┗╸ Documentation: https://william278.net/docs/huskhomes/
 
 # Locale of the default language file to use. Docs: https://william278.net/docs/huskhomes/translations
-language: en-gb
+language: es-es
 # Whether to automatically check for plugin updates on startup
 check_for_updates: true
 # Database settings
@@ -92,7 +92,7 @@ general:
     # Whether /back should work to teleport the user to where they died
     return_by_death: true
     # Whether /back should work with other plugins that use the PlayerTeleportEvent (can conflict)
-    save_on_teleport_event: false
+    save_on_teleport_event: true
   # Settings for sound effects
   sound_effects:
     # Whether to play sound effects
@@ -129,7 +129,7 @@ cross_server:
   # Define a single global /spawn for your network via a warp. Docs: https://william278.net/docs/huskhomes/global-spawn/
   global_spawn:
     # Whether to define a single global /spawn for your network via a warp.
-    enabled: false
+    enabled: true
     # The name of the warp to use as the global spawn.
     warp_name: Spawn
   # Whether player respawn positions should work cross-server. Docs: https://william278.net/docs/huskhomes/global-respawning/
@@ -139,8 +139,8 @@ rtp:
   # Radial region around the /spawn position where players CAN be randomly teleported.
   # If no /spawn has been set, (0, 0) will be used instead.
   region:
-    min: 500
-    max: 5000
+    min: 0
+    max: 0
   # Mean of the normal distribution used to calculate the distance from the center of the world
   distribution_mean: 0.75
   # Standard deviation of the normal distribution for distributing players randomly
@@ -159,7 +159,7 @@ cooldowns:
 # Economy settings. Docs: https://william278.net/docs/huskhomes/economy-hook
 economy:
   # Enable economy plugin integration (requires Vault and a compatible Economy plugin)
-  enabled: true
+  enabled: false
   # Map of economy actions to costs.
   economy_costs:
     ADDITIONAL_HOME_SLOT: 100.0
