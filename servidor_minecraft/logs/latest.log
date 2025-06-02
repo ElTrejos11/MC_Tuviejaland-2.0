@@ -1,10 +1,10 @@
-[07:28:52] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[07:28:52] [main/WARN]: Mod resolution failed
-[07:28:52] [main/INFO]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED roguelike 2.0.8-1.21-fabric {depends minecraft @ [~1.21]}, ROOT_FORCELOAD_SINGLE roguelike 2.0.8-1.21-fabric]
-[07:28:52] [main/INFO]: Reason: [HARD_DEP roguelike 2.0.8-1.21-fabric {depends minecraft @ [~1.21]}]
-[07:28:52] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-sound-api-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1]
-[07:28:52] [main/INFO]: Fix: add [], remove [], replace [[roguelike 2.0.8-1.21-fabric] -> add:roguelike 1 ([(-∞,∞)])]
-[07:28:52] [main/ERROR]: Incompatible mods found!
+[15:10:27] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[15:10:29] [main/WARN]: Mod resolution failed
+[15:10:29] [main/INFO]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED roguelike 2.0.8-1.21-fabric {depends minecraft @ [~1.21]}, ROOT_FORCELOAD_SINGLE roguelike 2.0.8-1.21-fabric]
+[15:10:29] [main/INFO]: Reason: [HARD_DEP roguelike 2.0.8-1.21-fabric {depends minecraft @ [~1.21]}]
+[15:10:29] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-rendering-v0, fabric-sound-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1]
+[15:10:29] [main/INFO]: Fix: add [], remove [], replace [[roguelike 2.0.8-1.21-fabric] -> add:roguelike 1 ([(-∞,∞)])]
+[15:10:29] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Replace mod 'Roguelike Dungeons' (roguelike) 2.0.8-1.21-fabric with any version that is compatible with:
