@@ -531,7 +531,8 @@
       "minecraft:zombie": "2025-05-30 01:18:38 +0000",
       "minecraft:creeper": "2025-05-30 04:22:10 +0000",
       "minecraft:drowned": "2025-05-31 23:17:22 +0000",
-      "minecraft:zombie_villager": "2025-05-30 04:23:00 +0000"
+      "minecraft:zombie_villager": "2025-05-30 04:23:00 +0000",
+      "minecraft:slime": "2025-06-02 05:09:55 +0000"
     },
     "done": false
   },
@@ -2826,9 +2827,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 05:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-02 04:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 05:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-06-02 04:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 05:10:20 +0000"
     },
     "done": true
   },

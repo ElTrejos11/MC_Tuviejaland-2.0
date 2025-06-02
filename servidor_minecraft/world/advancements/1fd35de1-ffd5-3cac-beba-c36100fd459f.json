@@ -8,13 +8,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-31 22:25:16 +0000",
+      "minecraft:mangrove_swamp": "2025-06-02 05:06:20 +0000",
       "minecraft:sparse_jungle": "2025-06-01 03:01:10 +0000",
-      "minecraft:jungle": "2025-06-01 03:01:21 +0000",
-      "minecraft:ocean": "2025-06-02 02:04:15 +0000",
       "minecraft:deep_ocean": "2025-06-02 02:05:04 +0000",
       "minecraft:river": "2025-05-31 21:31:50 +0000",
       "minecraft:lukewarm_ocean": "2025-06-02 02:16:32 +0000",
       "minecraft:stony_shore": "2025-05-31 22:25:21 +0000",
+      "minecraft:dripstone_caves": "2025-06-02 05:04:03 +0000",
+      "minecraft:desert": "2025-06-02 05:02:47 +0000",
+      "minecraft:jungle": "2025-06-01 03:01:21 +0000",
+      "minecraft:ocean": "2025-06-02 02:04:15 +0000",
+      "minecraft:swamp": "2025-06-02 05:11:25 +0000",
       "minecraft:savanna": "2025-05-31 21:15:14 +0000",
       "minecraft:plains": "2025-05-31 21:20:06 +0000"
     },
@@ -299,7 +303,8 @@
       "minecraft:spider": "2025-05-31 21:34:49 +0000",
       "minecraft:zombie": "2025-05-31 23:54:53 +0000",
       "minecraft:creeper": "2025-05-31 23:56:16 +0000",
-      "minecraft:drowned": "2025-05-31 23:56:00 +0000"
+      "minecraft:drowned": "2025-05-31 23:56:00 +0000",
+      "minecraft:slime": "2025-06-02 05:12:30 +0000"
     },
     "done": false
   },
@@ -2454,9 +2459,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-02 04:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-06-02 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-02 05:21:37 +0000"
     },
     "done": true
   },
@@ -2472,15 +2489,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-02 05:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-02 04:45:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 05:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-02 03:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-02 05:21:37 +0000"
     },
     "done": true
   },
@@ -2496,9 +2531,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-02 05:09:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2025-06-02 04:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 05:11:42 +0000"
     },
     "done": true
   },
@@ -2526,6 +2573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-02 05:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-06-02 04:19:21 +0000"
@@ -2544,6 +2597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 05:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_door": {
     "criteria": {
       "has_planks": "2025-06-02 04:45:07 +0000"
@@ -2553,6 +2612,12 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-06-02 04:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:22:12 +0000"
     },
     "done": true
   },
